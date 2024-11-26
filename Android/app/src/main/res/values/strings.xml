@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">空调管理</string>
+    <string name="info">新大陆云平台登录</string>
+    <string name="show">控制面板</string>
+    <string name="account">账户</string>
+    <string name="password">密码</string>
+    <string name="login">登录</string>
+    <string name="id">设备ID:</string>
+    <string name="d_id">41210</string>
+    <string name="confirm">确定设备</string>
+    <string name="condition">在线状态:</string>
+    <string name="offline">离线</string>
+    <string name="get_condition">获取状态</string>
+    <string name="temp">温度</string>
+    <string name="get_temp">获取温度</string>
+    <string name="light">灯泡</string>
+    <string name="light_on">开灯</string>
+    <string name="light_off">关灯</string>
+    <string name="fan">风扇</string>
+    <string name="open_fan">开风扇</string>
+    <string name="close_fan">关风扇</string>
+    <string name="range">阈值</string>
+    <string name="min">最小值:</string>
+    <string name="max">最大值:</string>
+    <string name="history">历史</string>
+    <string name="get_history">历史记录</string>
+    <string name="Windtran">风向</string>
+    <string name="WindSpeed">风速</string>
+    <string name="AirQuality">空气质量</string>
+    <string name="Humidity">湿度</string>
+    <string name="Temperature">温度</string>
+    <string name="Light">光照</string>
+    <string name="Auto">自动/手动</string>
+    <string name="AutoMode">自动</string>
+    <string name="noauto">手动</string>
+    <string name="RedWarning">红色警报器</string>
+    <string name="open">开启</string>
+    <string name="close">关闭</string>
+    <string name="YellowWarning">黄色预警器</string>
+    <string name="AirControl">空气调节器</string>
+    <string name="name">长春光华学院电气信息学院刘斌</string>
+
+</resources>
